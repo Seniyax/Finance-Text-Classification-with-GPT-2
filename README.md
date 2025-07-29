@@ -9,7 +9,7 @@ Development of a sentiment analysis model to classify financial news snippets in
 - **Hyperparameter tunning**
 - **Addressing class imbalance**
 
-Notebook -   
+Notebook - [Link](https://colab.research.google.com/drive/10SonfT7RYJgQVESl22opSVwn12xisP75?usp=drive_link)
 
 
   
